@@ -2,7 +2,7 @@
 
 The following two images are shown side by side 
 
-![](Octocat.png)
-![](Github-Mark.png)
+![](GitHub-Mark-64px.png)
+![](GitHub-Mark-120px-plus.png)
 
 Some more text 
