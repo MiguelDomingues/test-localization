@@ -1,6 +1,6 @@
 # A task list
 
-- [x] Foo
+- [x] Foo-pt
 - [x] Bar
 - [ ] Baz
 
