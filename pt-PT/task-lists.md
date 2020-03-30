@@ -1,7 +1,7 @@
 # A task list
 
 - [x] Foo-pt
-- [x] Bar
+- [x] Bar-pt
 - [ ] Baz
 
 # Mixed tasks lists
