@@ -9,6 +9,7 @@
  - [x] Marked item
  - [ ] Unmarked item
  - Ordinary (non-task) item
+ - Some other task
 
 # Numbered task list
 
