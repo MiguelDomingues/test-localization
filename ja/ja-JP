@@ -1,18 +1,8 @@
-# A task list
-
- * [x] Foo
- * [x] Bar
- * [ ] Baz
-
-# Mixed tasks lists
-
- - [x] Marked item
- - [ ] Unmarked item
- - Ordinary (non-task) item
- - Some other task
-
-# Numbered task list
-
- 1. [x] Foo
- 2. [x] Bar
- 3. [ ] Baz
+---
+title: The Doc Title
+tags:
+  - entities
+  - Aggregetes
+---
+ 
+# Heading 1
