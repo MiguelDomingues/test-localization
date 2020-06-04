@@ -1,6 +1,17 @@
-# Nested lists test case
+# A task list
 
-* first level item
-  * sub item
-  * another sub item
-* another first level item
+- [x] Foo-pt
+- [x] Bar-pt
+- [ ] Baz
+
+# Mixed tasks lists
+
+- [x] Marked item
+- [ ] Unmarked item
+- Ordinary (non-task) item
+
+# Numbered task list
+
+1. [x] Foo
+2. [x] Bar
+3. [ ] Baz
