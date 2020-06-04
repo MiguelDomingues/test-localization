@@ -1,17 +1,18 @@
 # A task list
 
-- [x] Foo-pt
-- [x] Bar-pt
-- [ ] Baz
+ * [x] Foo
+ * [x] Bar
+ * [ ] Baz
 
 # Mixed tasks lists
 
-- [x] Marked item
-- [ ] Unmarked item
-- Ordinary (non-task) item
+ - [x] Marked item
+ - [ ] Unmarked item
+ - Ordinary (non-task) item
+ - Some other task
 
 # Numbered task list
 
-1. [x] Foo
-2. [x] Bar
-3. [ ] Baz
+ 1. [x] Foo
+ 2. [x] Bar
+ 3. [ ] Baz
